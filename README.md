@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bill
+- 👋 Hi, I’m bill
 - 👀 I’m interested in learning Ansible to work smart not hard. :)
 
 <!---
